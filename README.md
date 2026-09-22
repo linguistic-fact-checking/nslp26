@@ -22,7 +22,7 @@ The project is organised into three main analytical stages:
 3. **glossaDatasetDownload.py**: script to download the XML files from the Glossa journal.
 4. **pipeline_notebook.ipynb**: notebook with the pipeline as steps.
 5. **input_data**:
-   - *gold_statements.csv*: 342 human-curated gold statements extracted from the 63 paragraphs.
+   - *gold_statements.csv*: 342 human-curated gold statements extracted from 63 paragraphs.
 6. **output_data**: results for the complete subset of 11 articles selected in the paper
    - statements.csv
    - clasified_statements.csv
