@@ -1,6 +1,6 @@
 """
 
-Lucía's script to download XML files of articles from Glossa journal.
+script to download XML files of articles from Glossa journal.
 
 """
 
